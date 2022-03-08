@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+
+    background-color: #7ADA81;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #1E3620;
+    
+}
+
+h1#principal{
+    text-align: center;
+    text-decoration-line: none;
+    background-color: #1E3620;
+    color: azure;
+}
+
+.basico {
+    color: brown;
+
+}
+
+.avançado{
+    color: blue;
+}
+
+.destaque {
+
+    background-color: yellowgreen;
+}

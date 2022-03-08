@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;  
+}
+
+.box {
+
+    width: 400px;
+    height: 400px;
+    border: dotted 5px rgba(red, green, blue, alpha);
+    margin: 0 auto 10%;
+}
